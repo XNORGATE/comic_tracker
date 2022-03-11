@@ -1,0 +1,19 @@
+{
+  "name": "Manhuagui-AutoCheckUpdata-DiscrodBot",
+  "version": "1.0.0",
+  "description": "Manhuagui AutoCheckUpdata And DiscrodBot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "MuraYuki",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.9",
+    "discord.js": "^12.5.3",
+    "dotenv": "^9.0.2",
+    "mysql": "^2.18.1",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2"
+  }
+}
