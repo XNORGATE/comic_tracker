@@ -19,6 +19,11 @@ __A comic tracker based on node framework__ Done in 2021/6/01
 * Track </br>
   
   <img src="https://media.discordapp.net/attachments/843145395005292574/951907208952684544/unknown.png">
+* help </br>
+
+![image](https://user-images.githubusercontent.com/72063585/158069479-a8f189c7-f62c-4779-aec8-ef8b00e670e8.png)
+
+
 * Notify </br>
   ![image](https://user-images.githubusercontent.com/72063585/157930864-30ba11b8-46d7-40eb-8cc4-9a9ecf0faa0f.png)
 
